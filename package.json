@@ -1,0 +1,54 @@
+{
+  "name": "expo-gradient-text",
+  "version": "1.0.4",
+  "description": "A beautiful and customizable gradient text component for React Native Expo applications",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "gradient",
+    "text",
+    "gradient-text",
+    "linear-gradient",
+    "masked-view",
+    "ui",
+    "component"
+  ],
+  "author": "Burhan Yılmaz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burhanyilmaz/expo-gradient-text.git"
+  },
+  "bugs": {
+    "url": "https://github.com/burhanyilmaz/expo-gradient-text/issues"
+  },
+  "homepage": "https://github.com/burhanyilmaz/expo-gradient-text#readme",
+  "peerDependencies": {
+    "@react-native-masked-view/masked-view": ">=0.2.0",
+    "expo-linear-gradient": ">=12.0.0",
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0"
+  },
+  "devDependencies": {
+    "@react-native-masked-view/masked-view": ">=0.2.0",
+    "@types/react": "~18.2.14",
+    "@types/react-native": "^0.72.0",
+    "expo-linear-gradient": ">=12.0.0",
+    "typescript": "^5.8.3"
+  },
+  "resolutions": {
+    "@types/react": "~18.2.14"
+  },
+  "files": [
+    "dist/",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "react-native": "dist/index.js"
+}
