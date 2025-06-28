@@ -79,6 +79,10 @@ start={{ x: 1, y: 0 }} end={{ x: 0, y: 1 }}
 </GradientText>
 ```
 
+### Preview
+
+<img src="images/preview.png"  height="320" style="border-top-left-radius: 16px; border-top-right-radius: 16px" alt="Preview" />
+
 ### Custom Colors
 
 ```jsx
