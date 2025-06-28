@@ -81,8 +81,10 @@ start={{ x: 1, y: 0 }} end={{ x: 0, y: 1 }}
 
 ### Previews
 
-<img src="images/preview.png"  height="260" style="border-top-left-radius: 16px; border-top-right-radius: 16px" alt="Preview" />
-<img src="images/preview-android.png"  height="260" style="border-top-left-radius: 16px; border-top-right-radius: 16px" alt="Preview" />
+### Previews
+iOS          | Android
+:-------------------------:|:-------------------------:
+<img src="images/preview.png"  height="300" alt="Preview" />  |  <img src="images/preview-android.png"  height="300" style="" alt="Preview" />
 
 ### Custom Colors
 
